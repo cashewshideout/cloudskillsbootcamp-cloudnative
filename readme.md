@@ -17,6 +17,6 @@ Recap - <https://www.cashewshideout.com/2021/02/cloudskills-cloudnative-devops-b
 
 ## Week 2 - Scripting Like A Developer
 
-Code - ./week-2
+Code - [/week-2](https://github.com/cashewshideout/cloudskillsbootcamp-cloudnative/tree/main/week-2)
 
-Recap - <https://www.cashewshideout.com/2021/02/cloudskills-cloudnative-devops-bootcamp-recap-week-2/>
+Recap - <https://www.cashewshideout.com/2021/03/cloudskills-cloudnative-devops-bootcamp-recap-week-2/>
