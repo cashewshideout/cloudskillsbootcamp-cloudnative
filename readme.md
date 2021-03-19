@@ -11,7 +11,7 @@ This repository is a work in progress (WIP) and will be updated regularly.
 
 ## Week 1 - DevOps Fundamentals
 
-Code - None
+Code - N/A
 
 Recap - <https://www.cashewshideout.com/2021/02/cloudskills-cloudnative-devops-bootcamp-recap-week-1/>
 
@@ -26,3 +26,9 @@ Recap - <https://www.cashewshideout.com/2021/03/cloudskills-cloudnative-devops-b
 Code - [/week-3](https://github.com/cashewshideout/cloudskillsbootcamp-cloudnative/tree/main/week-3)
 
 Recap - <https://www.cashewshideout.com/2021/03/cloudskills-cloudnative-devops-bootcamp-recap-week-3/>
+
+## Week 4 - GitHub and Source Control
+
+Code - N/A
+
+Recap - <https://www.cashewshideout.com/2021/03/cloudskills-cloudnative-devops-bootcamp-recap-week-4/>
