@@ -11,8 +11,6 @@ This repository is a work in progress (WIP) and will be updated regularly.
 
 ## Week 1 - DevOps Fundamentals
 
-Code - N/A
-
 Recap - <https://www.cashewshideout.com/2021/02/cloudskills-cloudnative-devops-bootcamp-recap-week-1/>
 
 ## Week 2 - Scripting Like A Developer
@@ -29,6 +27,14 @@ Recap - <https://www.cashewshideout.com/2021/03/cloudskills-cloudnative-devops-b
 
 ## Week 4 - GitHub and Source Control
 
-Code - N/A
-
 Recap - <https://www.cashewshideout.com/2021/03/cloudskills-cloudnative-devops-bootcamp-recap-week-4/>
+
+## Week 5 - Continuous Integration, Continuous Deploy, and Continuous Delivery
+
+Recap - <https://www.cashewshideout.com/2021/03/cloudskills-cloudnative-devops-bootcamp-recap-week-5/>
+
+## Week 6 - Serverless in Azure and AWS
+
+Code - [/week-6](https://github.com/cashewshideout/cloudskillsbootcamp-cloudnative/tree/main/week-6)
+
+Recap - <https://www.cashewshideout.com/2021/04/cloudskills-cloudnative-devops-bootcamp-recap-week-6/>
